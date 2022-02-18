@@ -1,0 +1,293 @@
+CourseID,CourseName,Description,Status,Category,Has_Certification
+DATA202108,Mulesoft certification,DATA202108 Description,not offered,N.A.,0
+DATA202107,Pega System Architect Essentials,Begin your journey as a System Architect with Pega technology by learning the capabilities of the Pega Platform Reporting,retired,N.A.,0
+DATA202106,SAP Cloud Accelerated Learning Experience (S.C.A.L.E),DATA202106 Description,retired,N.A.,0
+DATA202105,Python Programming for Data Analysis,students will learn the key Python libraries for exploring and manipulating real world data,retired,N.A.,0
+DATA202104,Cybersecurity - Introduction to SSL Certificates,DATA202104 Description,retired,N.A.,0
+DATA202103,Intro to FISCOS BCOS Blockchain | WeBank Workshop,DATA202103 Description,retired,N.A.,0
+DATA202102,Quantum Leap,DATA202102 Description,retired,N.A.,0
+DATA202101,Dashboard Specialist,DATA202101 Description,retired,N.A.,0
+DATA202011,MuleSoft Workshop,DATA202011 Description,retired,N.A.,0
+DATA202010,Intro to Drupal,DATA202010 Description,retired,N.A.,0
+DATA202009,Acquia Certified Site Builder,DATA202009 Description,retired,N.A.,0
+DATA202008,Intro to Digital Marketing,DATA202008 Description,retired,N.A.,0
+DATA202007,FISCO BCOS Blockchain & Hands-on Experience | WeBank Workshop,DATA202007 Description,retired,N.A.,0
+DATA202006,FISCO BCOS Blockchain & Hands-on Experience | WeBank Workshop,Gain the basic knowledge of FISCO BCOS and its open source community,retired,N.A.,0
+DATA202005,Stress Management with Technology,Learn about the impact of stress and how to manage stress using technology,not offered,N.A.,0
+DATA202004,Quantum Leap,The overall objective of the course is to understand quantum computing,retired,N.A.,0
+DATA202003,Data Analysis with Python,DATA202003 Description,retired,N.A.,0
+DATA202002,Analysing data made easy with SAP Analytics Cloud,DATA202002 Description,not offered,N.A.,0
+DATA202001,Overview of Big Data with Kx (Revised),DATA202001 Description,retired,N.A.,0
+DATA201905,How to explore and navigate analytic dashboards with TIBCO Spotfire X,DATA201905 Description,not offered,N.A.,0
+DATA201904,Blockchain and Smart Contracts,Hands on coding of blockchain and smart contracts,retired,N.A.,0
+DATA201903,Quantum Leap,A gentle intorduction to quantum computing with real examples,retired,N.A.,0
+DATA201902,SAP Analytics Cloud,DATA201902 Description,retired,N.A.,0
+DATA201901,Overview of Big Data with Kx,DATA201901 Description,retired,N.A.,0
+DATA201814,Big Data Analytics with kdb+,"For: Students interested in big data and using the kdb+ technology for ultra-high-speed processing of real-time  streaming and historical data.
+ 
+Prerequisites: 
+-       Keen interest in big data
+-       Prior academic or professional experience with any programming language  i.e. Java  R  Python  Matlab
+-       Students must attend the introductory session on 17 Dec to take part in the hands-on workshop on 18 Dec
+Min class size: 15 (the class will run only with min size)
+Max class size: 30
+ 
+Instructor: Warren Yong & Eamonn McKernan
+ 
+About Kx: Kx is a global technology provider with 20 years of experience working with some of the world?s largest finance  technology  retail  pharma  manufacturing and energy institutions. Kx technology  incorporating the kdb+ time-series database  is a leader in high-performance  in-memory computing  streaming analytics and flexibility for high-volume  data-intensive analytics and applications across multiple industries.
+
+Syllabus Details:
+Join us for 1.5 days of exciting sessions on the power Kx technology  interesting real-life use cases and a hands-on coding workshop.
+ 
+The first session will entail explaining how Kx supports streaming analytics on extremely large datasets that would simply swamp traditional technologies. This talk is a perfect opportunity to learn about the power and scalability of Kx and how it can be applied to real-life business problems across a range of industries from Finance to retail and the evolving challenges of IoT and everywhere connected.
+ 
+The follow-up full day workshop will help students gain insight into the world?s fastest time-series database  kdb+ and the many features of its q programming language. This hands-on session explains how kdb+ can address today?s data challenges. The program highlights the advantages of using q to analyse massive data sets and obtain real insights.
+
+At the end of both days  students will receive a complementary Kx certification stipulating his/her completion of the introductory kdb+ Level 1 course including kdb+ concepts  programming and data mining techniques. Given our diversified client pool across institutions such as NASA  Red Bull Racing and closer to home  SGX  GIC and Standard Chartered  we encourage students to include this on their resumes for increased visibility during job searches as well as knowledge of the Kx technology which is highly relevant in the industry today!
+
+In terms of transferable skills  students should be able to grasp through the workshop:
+1.	How information is captured and stored
+2.	How to query this information
+3.	What are the best techniques to mine this data
+4.	What are the best tools to visualise this data set
+5.	Architecture design",retired,N.A.,0
+DATA201813,Dynamic Programming,"For:
+1.   Students who have strong interests in algorithms
+2.   Prepare students for the course IS448 Introduction to Artificial Intelligence.
+ 
+Prerequisites: 
+IS103 Computational Thinking
+ 
+Min class size: 5 (the class will run only if the min size is met)
+Max class size: 40
+ 
+Instructor:  DAI Bing Tian
+ 
+Syllabus Details:
+-	Recursion and Iteration
+-	Dynamic programming",not offered,N.A.,0
+DATA201812,Understanding Blockchain,"For: Students interested in blockchain technology. 
+ 
+Prerequisites:  Nil
+
+Min class size: 15 (the class will run only with min size)
+Max class size: 40
+ 
+Instructor: Trainer from NEM
+ 
+Syllabus Details:
+Blockchain 101 & NEM 101
+Blockchain 101 (1 day)
+In this module  you will learn about what is Blockchain and its characteristics. It will bring you down the history of the emergence of Blockchain technology  what triggered it and how it caught the attention of the world. You will be exploring the important mechanisms of the Blockchain and how it can change the world around you. Most important of all  what role you can play.
+Key topics include:
+- The Technology behind Blockchain
+- Features of Blockchain
+- History of Blockchain
+- Features of Blockchain
+NEM 101 (1 day)
+In this module  NEM will be introduced to you. Its history  its architectural design  its consensus protocol  its Smart Assets and their features. Comparison of NEM with other Blockchains and the advantages using NEM Blockchain will also be discussed. You will find everything you need to know before you take the leap of faith.
+- History of NEM
+- NEM architecture
+- Advantages of using NEM
+- NEM Assets
+- Harvesting
+- Consensus protocol
+- Comparison",retired,N.A.,0
+DATA201811,Jumpstart to iOS programming,"For:  Students interested in to build iOS application
+
+Prerequisites: 
+- You need a Mac to participate
+- Generally proficient in Java programming  as Swift has very similar syntax
+
+Min class size: 15 (the class will run only with min size)
+Max class size: 30
+
+Instructor: ONG Hong Seng
+
+Syllabus:
+The key idea of the course is to give a jumpstart for student who are interested to build iOS apps
+1.	Getting started 
+2.	Deploying app to simulator and device(s)
+3.	Coding in Swift
+4.	Building a simple app
+5.	Knowing how to progress with given iBooks",retired,N.A.,0
+DATA201810,Web Data Extraction and Regression Analysis,"For: SMU undergraduates  postgraduates  and staff who are interested in collection and analysis of Web data.
+ 
+Prerequisites: Knowledge of Java programming.
+ 
+Min class size: 15 (the class will run only with min size)
+Max class size: 30
+ 
+Instructor: Preferred.AI (http://preferred.ai)
+ 
+Syllabus Details:
+The Web is an enormous repository of data.  Frequently  in our work or study  we need to access some information from the Web for projects  market research  hypothesis testing  application development  etc. In this course  we cover the fundamentals of how data on the Web are represented  how we can construct programs that systematically extract data from specific Web sources and organize them into a structured form  and how to conduct regression analysis for basic prediction tasks. This is a hands-on course.  Attendees are expected to attend all five days  and to complete a small group project by the end of the course.
+1.	Representations of Web data and focused crawling
+2.	Data extraction workshop
+3.	Regression analysis
+4.	Data analysis workshop
+5.	Project presentations and evaluation",retired,N.A.,0
+DATA201809,Blockchain and Smart Contracts,"For: Students who wants to learn how to create and program blockchains and Smart Contracts.
+ 
+Prerequisites: Basic programming experience  Javascript is best. Must bring a PC for lab section.
+ 
+Min class size: 5 (the class will run only with min size)
+Max class size: 45
+ 
+Instructor: Paul GRIFFIN
+ 
+Syllabus Details:
+Blockchain and Smart Contracts are at the heart of new disruptions to finance and other industries with crypto-currencies such as BitCoin and distributed ledgers being used by many start-ups. This class provides the background and how to start programming these important technologies.
+There will be 2 sessions of 3 hours each with a mix of theory and hands-on work. By the end of the sessions participants will be able to install a blockchain  mine blocks and write  deploy and execute Smart Contracts. 
+We will be using Ethereum as the blockchain and Smart Contract engine and program in Solidity. A knowledge of programming is assumed but only up to understanding scripts (ideally Javascript).",retired,N.A.,0
+DATA201808,Introduction to Node.js & NoSQL Databases w/ MongoDB,"For: Students who wish to learn more about server-side Javascript web application development with Node.js and go beyond traditional relational database systems  exploring concepts around document-oriented NoSQL databases Retired N.A.
+DATA201809 Blockchain and Smart Contracts For: Students who wants to learn how to create and program blockchains and Smart Contracts.",retired,N.A.,0
+DATA201807,Be a Pro Mac User!,"For:  Students interested in to maximise their use of their Mac
+ 
+Prerequisites:
+- You need a Mac to participate
+- Bring your charger / adapter
+
+Min class size: 15 (the class will run only with min size)
+Max class size: 30
+ 
+Student Instructors: 
+Gabriel Chuan  Andrew Tay
+ 
+Syllabus:
+The key idea of the course is to help students maximise their use of their Mac.
+Learn tricks to get better at using your mac. Save time on multiple tasks with these tricks!
+
+Using Preview.app
+Copying from Powerpoint/Preview quickly
+Mac Snipping Tool
+Using QuickTime
+Display iPhone Screen on Mac
+Record Screens
+Using AirDrop
+Using Spectacle.app For Resizing
+Accessibility Tips - Invert Colors  ctrl+zoom and gestures
+Hot Corners - quick logout  etc
+(Bonus) Setup homebrew  iTerm and zsh
+iCalendar.app - Shared Calendar + Delegates
+Virtualization / Bootcamp
+",retired,N.A.,0
+DATA201806,Quantum Computing Primer,"For: Students who wants to learn about how Quantum Computers differ from current computers  their potential applications and current challenges and issues.
+ 
+Prerequisites: Basic understanding of current computer technology e.g. bits and logic gates.
+       
+ 
+Instructor: Paul GRIFFIN
+ 
+Syllabus Details:
+The underlying principles and applications of quantum computing will be discussed and demonstrated. Real life examples will be given with explanations on how quantum computers can help solve some problems more efficiently. Current theoretical and technical issues will also be discussed.
+There will be 2 sessions of 1.5 hours each with a mixture of theory and demonstrations to help understand the different way quantum computers work.
+There will be a prize for any student that generates a new idea for the application of quantum computers or a potential solution to a current issue.",retired,N.A.,0
+DATA201805,SalesCloud,"ONLY for matriculated students
+For:  Students who are interested in learning more about salesforce functionalities that allows them to quickly get up to speed on the Salesforce Sales Cloud and its productivity tools. 
+
+Prerequisites: Basic operation of an application through web browser
+
+Min class size: 12 (the class will run only if min size)
+Max class size: 25
+
+Instructor: LEE Kok Khing
+
+Syllabus:
+Students will learn how a Sales Representative will use the Sales Cloud to prospect for clients  manage accounts and opportunities  manage workflow  communicate with clients  and run reports.
+Students will also learn how a Sales Manager analyzes and improves sales processes from lead assignment to deal closure using Salesforce Sales Cloud.
+
+Notes:
+    SMU is conducting this course under the Salesforce Academic Alliance.
+",retired,N.A.,0
+DATA201804,Jumpstart to Android Programming,"For:  Students interested to do some android apps either for Project Experience or for own use
+
+Prerequisites:  Basic Programming 
+
+Min class size: 12 (the class will run only with min size)
+Max class size: 45
+
+Student Instructor: WU Jianhua
+
+Syllabus:
+Want to learn how to create Android app? Ever heard of firebase by Google?
+ 
+Firebase provides features such as Database  Storage  and Analytics of your Apps. Those features enable you to build better apps. In this enrichment  it gives you a jump-start to android development. In which you will learn how to create an app and integrate it with firebase and utilize its features.
+
+And here are some of the other features of the app:
+
+-  Logging in using Google Account
+-  Utilizing Camera to captured image or as QR Scanner
+-  Utilizing GPS to get current location
+-  Uploading data to firebase database or storage
+
+At the end of the 2nd day  there will be a demonstration of uploading apps to Google PlayStore and sharing personal tips and experience on what to look out for when uploading the app to Google PlayStore!
+
+We will be using Android Studio as the IDE to create an android application. Don?t worry if you are using Mac  as Android Studio supports both Windows and Mac Laptop
+For:  Students interested to do some android apps either for Project Experience or for own use
+
+Prerequisites:  Basic Programming 
+
+Min class size: 12 (the class will run only with min size)
+Max class size: 45
+
+Student Instructor: WU Jianhua
+
+Syllabus:
+Want to learn how to create Android app? Ever heard of firebase by Google?
+ 
+Firebase provides features such as Database  Storage  and Analytics of your Apps. Those features enable you to build better apps. In this enrichment  it gives you a jump-start to android development. In which you will learn how to create an app and integrate it with firebase and utilize its features.
+
+And here are some of the other features of the app:
+
+-  Logging in using Google Account
+-  Utilizing Camera to captured image or as QR Scanner
+-  Utilizing GPS to get current location
+-  Uploading data to firebase database or storage
+
+At the end of the 2nd day  there will be a demonstration of uploading apps to Google PlayStore and sharing personal tips and experience on what to look out for when uploading the app to Google PlayStore!
+
+We will be using Android Studio as the IDE to create an android application. Don?t worry if you are using Mac  as Android Studio supports both Windows and Mac Laptop
+For:  Students interested to do some android apps either for Project Experience or for own use
+
+Prerequisites:  Basic Programming 
+
+Min class size: 12 (the class will run only with min size)
+Max class size: 45
+
+Student Instructor: WU Jianhua
+
+Syllabus:
+Want to learn how to create Android app? Ever heard of firebase by Google?
+ 
+Firebase provides features such as Database  Storage  and Analytics of your Apps. Those features enable you to build better apps. In this enrichment  it gives you a jump-start to android development. In which you will learn how to create an app and integrate it with firebase and utilize its features.
+
+And here are some of the other features of the app:
+
+-  Logging in using Google Account
+-  Utilizing Camera to captured image or as QR Scanner
+-  Utilizing GPS to get current location
+-  Uploading data to firebase database or storage
+
+At the end of the 2nd day  there will be a demonstration of uploading apps to Google PlayStore and sharing personal tips and experience on what to look out for when uploading the app to Google PlayStore!
+
+We will be using Android Studio as the IDE to create an android application. Don?t worry if you are using Mac  as Android Studio supports both Windows and Mac Laptop
+",retired,N.A.,0
+DATA201803,React.js  development environment,For:  Students who wants to pursue a career as an Application Developer,retired,N.A.,0
+DATA201802,Natural Language Processing by Taiger Academy,"For:  Students interested in learning Artificial Intelligence and practical applications
+
+Pre-requisites: Introduction to Programming/IS Software Foundation & Data Management
+
+Note: If you do not meet the pre-requisites  please do not register. There will be no refund for registrants who register but do not meet the pre-requisites.
+
+Min class size: 20 (the class will run only with min size)
+Max class size: 30
+
+Invited Instructors (from Taiger Academy): 
+Professors and TAIGER?S own engineers
+
+Syllabus:
+-	3 day in-depth course on Natural Language Processing  with live examples featuring some of TAIGER?S technology.
+-	This 3-day course will be conducted by professors and TAIGER?S own engineers with a mix of AI theory and hands on with practical AI tools.
+-	Students will not need to have attended the previous Foundations in AI course to gain maximum benefit from this upcoming course.",retired,N.A.,0
+DATA201801,Front-End Development with ReactJS Workshop,For: Students who aspire to be a full-stack developer or have interest in frontend development Pre-requisites: Have a good understanding of JavaScript,retired,N.A.,0
